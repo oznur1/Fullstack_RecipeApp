@@ -1,5 +1,5 @@
 
-# A simple fullstack recipe app where users can create and view recipes. It is built using React for the frontend, Node.js and Express for the backend, and MongoDB as the database.
+# A simple fullstack recipe app where users can create and view recipes. It is built using React for the frontend, Node.js and Express for the backend.
 
 # Backend Framework
 - express.js
